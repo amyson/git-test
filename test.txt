@@ -2,6 +2,4 @@ hello
 world !
 yes
 changed two
-switch to branch dev
-a and b
-add from dev in work b
+add from dev-a
